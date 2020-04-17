@@ -1,1 +1,1 @@
-# ChatBot-JS
+# Simple JavaScript Chatbot 
