@@ -35,6 +35,6 @@ Language Models, RNN, GRU and LSTM</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/ChatBot-JS/blob/master/chl(10).pdf" style="text-decoration:none;">CS234 Notes - Lecture 1:
 Introduction to Reinforcement Learning </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/ChatBot-JS/blob/master/chl(11).pdf" style="text-decoration:none;">Distributed Representations ofWords and Phrases
+<li><a target="_blank" href="https://github.com/manjunath5496/ChatBot-JS/blob/master/chl(11).pdf" style="text-decoration:none;">Distributed Representations of Words and Phrases
 and their Compositionality</a></li>
 </ul>
